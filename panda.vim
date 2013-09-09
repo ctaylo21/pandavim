@@ -31,19 +31,19 @@ highlight link Boolean String
 
 highlight Statement guibg=NONE guifg=#EEEEEE gui=NONE
 highlight Delimiter guibg=NONE guifg=#EEEEEE gui=NONE
-hi Conditional guibg=NONE guifg=#85E085 gui=NONE
+hi Conditional guibg=NONE guifg=#6AB36A gui=NONE
 
 " Vim specific stuff
 highlight Search guibg=#A36666 guifg=#EEEEEE gui=NONE
-highlight Folded guibg=#333333 guifg=#85E085 gui=NONE
+highlight Folded guibg=#333333 guifg=#6AB36A gui=NONE
 highlight helpNote guibg=#A36666 guifg=#EEEEEE gui=NONE
 highlight Visual guibg=#474747 guifg=NONE gui=NONE
 highlight CursorLine guibg=#474747 guifg=NONE gui=NONE
 highlight MatchParen guibg=#A36666 guifg=NONE gui=NONE
-highlight VimHiTerm guibg=NONE guifg=#85E085 gui=NONE
-highlight VimGroup guibg=NONE guifg=#85E085 gui=NONE
-highlight helpOption guibg=NONE guifg=#85E085 gui=NONE
-highlight vimOption guibg=NONE guifg=#85E085 gui=NONE
+highlight VimHiTerm guibg=NONE guifg=#6AB36A gui=NONE
+highlight VimGroup guibg=NONE guifg=#6AB36A gui=NONE
+highlight helpOption guibg=NONE guifg=#6AB36A gui=NONE
+highlight vimOption guibg=NONE guifg=#6AB36A gui=NONE
 highlight vimHiAttrib guibg=NONE guifg=#97CDFF gui=NONE
 highlight vimSynType guibg=NONE guifg=#97CDFF gui=NONE
 highlight vimCommentTitle guibg=NONE guifg=#97CDFF gui=NONE
@@ -56,7 +56,7 @@ highlight PmenuSel guibg=#C6B6EE guifg=#333333 gui=NONE
 " PHP
 hi link phpType Conditional
 highlight phpRegion guibg=NONE guifg=#EEEEEE gui=NONE
-highlight phpKeyword guibg=NONE guifg=#85E085 gui=NONE
+highlight phpKeyword guibg=NONE guifg=#6AB36A gui=NONE
 highlight link phpBoolean String
 
 " HTML
@@ -71,6 +71,6 @@ highlight NERDTreeRo guibg=NONE guifg=#A36666 gui=Bold
 highlight Directory guibg=NONE guifg=#C6B6EE gui=Bold
 
 " BufExplorer
-highlight bufExplorerCurBuf guibg=NONE guifg=#85E085 gui=NONE
+highlight bufExplorerCurBuf guibg=NONE guifg=#6AB36A gui=NONE
 highlight bufExplorerHelp guibg=NONE guifg=#BBBBBB gui=NONE
 highlight bufExplorerHidBuf guibg=NONE guifg=#BBBBBB gui=NONE
